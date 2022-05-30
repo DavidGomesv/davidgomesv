@@ -12,7 +12,7 @@
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="David-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="David-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/dev_animado-gif-25018018">
+  <div class="tenor-gif-embed" data-postid="25018018" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dev_animado-gif-25018018">Dev_animado GIF</a>from <a href="https://tenor.com/search/dev_animado-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
   
   ##
